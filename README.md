@@ -1,2 +1,2 @@
-# Questionnary
-Questionnary database
+# Questionnaire
+Questionnaire database
